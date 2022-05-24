@@ -1,6 +1,6 @@
-![Speaking on the topic of the future of airports in Hong Kong.](assets/img/pages/about/banner_1.jpg)
+![Speaking on the topic of the future of airports in Hong Kong.](assets/img/pages/index/banner_1.jpg)
 
-### About this website...
+### About this website
 
 In just over a hundred years, commercial aviation has achieved the incredible feat of connecting almost any two locations on Earth in an affordable, fast, and safe manner. By physically connecting people across continents, it has shaped an entire cosmopolitan culture, formed unlikely friendships and romances, and fulfilled personal and professional ambitions. It has also enabled global commerce and trade-based diplomacy, ushering the world into an unprecedented era of peace and shared prosperity.
 
@@ -28,7 +28,7 @@ As an academic researcher, I am at the all-but-dissertation stage of a Ph.D. in 
 
 As a regular speaker at industry events, I have presented original thought leadership at many conferences over the years, including most recently the IATA World Cargo Symposium in Singapore, the Global Airport Development (GAD) Asia Conference in Goa, the Smart Airport Technovation Conference in Hong Kong, and the AviAsian Conference in Singapore.
 
-![Moderating a panel at an airport innovation conference in Hong Kong.](assets/img/pages/about/banner_2.jpg)
+![Moderating a panel at an airport innovation conference in Hong Kong.](assets/img/pages/index/banner_2.jpg)
 
 ### Contact and engagement
 
